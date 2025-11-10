@@ -18,17 +18,11 @@ This site is a collection of my work, talks, and notes.
 </div>
 
 
-# 🔬 Research & Pages
+# Research & Pages
 
 - [Reptiles](./reptiles) — notes, side projects, and explorations.  
 - [My Talks](https://myname.github.io/mytalks/) — slides and recordings from recent talks.  
 - [Publications](publications.md)
 - [Posts](posts/2025-11-10-first.md)
 
-
-# 📫 Contact
-
-You can find me at:
-- ✉️ [venkata-saiswetha.kolluru@cea.fr](mailto:venkata-saiswetha.kolluru@cea.fr)
-- ▶️ [Youtube](https://www.youtube.com/@saiswetha8664) 
 
