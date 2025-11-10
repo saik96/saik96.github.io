@@ -9,11 +9,11 @@ header_pages:
   - posts.md
 
 minima:
-minima:
+  skin: classic
   social_links:
-    YouTube: "https://www.youtube.com/@saiswetha8664"
-    github: "https://github.com/saik96"
-    email: "venkata-saiswetha.kolluru@cea.fr"
+    - { platform: github, user_url: "https://github.com/saik96" }
+    - { platform: youtube, user_url: "https://www.youtube.com/@saiswetha8664" }
+    - { platform: email, user_url: "mailto:venkata-saiswetha.kolluru@cea.fr" }
 
 plugins:
   - jekyll-feed
