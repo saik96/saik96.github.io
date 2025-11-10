@@ -17,7 +17,7 @@ This site is a collection of my work, talks, and notes.
 ">
   <img src="/media/images/20240219_180037.jpg" alt="Background" style="width:100%; display:block;">
 </div>
---!>
+-->
 
 # Research & Pages
 
