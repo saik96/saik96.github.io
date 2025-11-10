@@ -1,5 +1,5 @@
 title: Swetha V.S. Kolluru
-theme: "minima"
+theme: minima
 
 # Optional: top navigation links
 header_pages:
@@ -9,11 +9,11 @@ header_pages:
   - posts.md
 
 minima:
-  skin: classic
+minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/saik96" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@saiswetha8664" }
-    - { platform: email,   user_url: "mailto:venkata-saiswetha.kolluru@cea.fr" }
+    YouTube: "https://www.youtube.com/@saiswetha8664"
+    github: "https://github.com/saik96"
+    email: "venkata-saiswetha.kolluru@cea.fr"
 
 plugins:
   - jekyll-feed
