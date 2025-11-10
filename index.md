@@ -3,15 +3,18 @@ layout: home
 title: Welcome
 ---
 
-<style>
-body {
+<div style="
   background-image: url('/media/images/20240219_180037.jpg');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-}
-</style>
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 800px;
+  color: white;
+  text-align: center;
+">
 
 I'm a postdoctoral researcher currently working on fluid dynamics and nonlinear systems.  
 This site is a collection of my work, talks, and notes.
