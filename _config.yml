@@ -1,7 +1,7 @@
 title: Swetha V.S. Kolluru
 author: Swetha V.S. Kolluru
 email: venkata.saiswetha-kolluru@cea.fr
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@latest"
 
 # Optional: top navigation links
 header_pages:
