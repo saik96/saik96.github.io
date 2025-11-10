@@ -10,8 +10,10 @@ header_pages:
   - publications.md
   - posts.md
 
-description: >-
-  Personal page — research, notes, and updates.
+You can find me at:
+- ✉️ [venkata-saiswetha.kolluru@cea.fr](mailto:venkata-saiswetha.kolluru@cea.fr)
+- ▶️ [Youtube](https://www.youtube.com/@saiswetha8664) 
+
 
 plugins:
   - jekyll-feed
