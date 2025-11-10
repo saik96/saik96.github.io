@@ -3,8 +3,6 @@ layout: home
 title: Welcome
 ---
 
-# 👋 Hi
-
 I'm a postdoctoral researcher currently working on fluid dynamics and nonlinear systems.  
 This site is a collection of my work, talks, and notes.
 
