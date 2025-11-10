@@ -5,7 +5,7 @@ title: Welcome
 
 <style>
 body {
-  background-image: url('/assets/images/background.jpg');
+  background-image: url('/media/images/20240219_180037.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
