@@ -1,6 +1,15 @@
+title: Swetha V.S. Kolluru
+author: Swetha V.S. Kolluru
+email: venkata.saiswetha-kolluru@cea.fr
 theme: minima
-title: Sai Swetha V. Kolluru
-author: Swetha
+
+# Optional: top navigation links
 header_pages:
-  - mytalks/reptiles.md
-  - mytalks/readme.md
+  - reptiles.md
+
+description: >-
+  Personal page — research, notes, and updates.
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
