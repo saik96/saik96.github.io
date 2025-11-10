@@ -9,6 +9,7 @@ header_pages:
   - posts.md
 
 minima:
+  skin: classic
   social_links:
     - { platform: github,  user_url: "https://github.com/saik96" }
     - { platform: youtube, user_url: "https://www.youtube.com/@saiswetha8664" }
