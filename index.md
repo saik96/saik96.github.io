@@ -13,5 +13,6 @@ This site is a collection of my work, talks, and notes.
 - [My Talks](https://myname.github.io/mytalks/) — slides and recordings from recent talks.  
 - [Publications](publications.md)
 - [Posts](posts/2025-11-10-first.md)
+- [Contact me](contact.md)
 
 
