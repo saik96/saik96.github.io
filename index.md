@@ -22,6 +22,7 @@ This site is a collection of my work, talks, and notes.
 
 You can find me at:
 - ✉️ [venkata-saiswetha.kolluru@cea.fr](mailto:venkata-saiswetha.kolluru@cea.fr)
+- [Youtube](https://www.youtube.com/@saiswetha8664) 
 ---
 
 _This site runs on [Jekyll](https://jekyllrb.com/) with the [Minima](https://github.com/jekyll/minima) theme._
