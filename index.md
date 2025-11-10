@@ -12,7 +12,7 @@ title: Welcome
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 ">
-  <img src="/media/images/20240219_180037" alt="Background" style="width:100%; display:block;">
+  <img src="/media/images/20240219_180037.jpg" alt="Background" style="width:100%; display:block;">
 </div>
 
 I'm a postdoctoral researcher currently working on fluid dynamics and nonlinear systems.  
