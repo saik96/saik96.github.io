@@ -6,6 +6,7 @@ theme: minima
 # Optional: top navigation links
 header_pages:
   - reptiles.md
+  - index.md
 
 description: >-
   Personal page — research, notes, and updates.
