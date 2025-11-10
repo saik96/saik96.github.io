@@ -3,7 +3,9 @@ layout: home
 title: Welcome
 ---
 
-<
+I'm a postdoctoral researcher currently working on fluid dynamics and nonlinear systems.  
+This site is a collection of my work, talks, and notes.
+
 <!-- Image card -->
 <div style="
   max-width: 800px;
@@ -15,8 +17,6 @@ title: Welcome
   <img src="/media/images/20240219_180037.jpg" alt="Background" style="width:100%; display:block;">
 </div>
 
-I'm a postdoctoral researcher currently working on fluid dynamics and nonlinear systems.  
-This site is a collection of my work, talks, and notes.
 
 # 🔬 Research & Pages
 
