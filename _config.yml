@@ -1,7 +1,7 @@
 title: Swetha V.S. Kolluru
 author: Swetha V.S. Kolluru
 email: venkata.saiswetha-kolluru@cea.fr
-remote_theme: "jekyll-theme-slate"
+theme: "jekyll-theme-slate"
 
 # Optional: top navigation links
 header_pages:
