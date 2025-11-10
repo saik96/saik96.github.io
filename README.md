@@ -1,2 +1,0 @@
-# swethakolluru.github.io
-Website
