@@ -6,18 +6,6 @@ title: Welcome
 I'm a postdoctoral researcher currently working on fluid dynamics and nonlinear systems.  
 This site is a collection of my work, talks, and notes.
 
-<!--
-<!-- Image card -->
-<div style="
-  max-width: 800px;
-  margin: 2rem auto;
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-">
-  <img src="/media/images/20240219_180037.jpg" alt="Background" style="width:100%; display:block;">
-</div>
--->
 
 # Research & Pages
 
