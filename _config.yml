@@ -3,7 +3,7 @@ theme: minima
 
 # Optional: top navigation links
 header_pages:
-  - index.md
+  - [Home](index.md)
   - reptiles.md
   - publications.md
   - posts.md
