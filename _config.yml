@@ -1,6 +1,4 @@
 title: Swetha V.S. Kolluru
-author: Swetha V.S. Kolluru
-email: venkata.saiswetha-kolluru@cea.fr
 theme: "minima"
 
 # Optional: top navigation links
@@ -10,7 +8,7 @@ header_pages:
   - publications.md
   - posts.md
 
-You can find me at:
+description:
 - ✉️ [venkata-saiswetha.kolluru@cea.fr](mailto:venkata-saiswetha.kolluru@cea.fr)
 - ▶️ [Youtube](https://www.youtube.com/@saiswetha8664) 
 
