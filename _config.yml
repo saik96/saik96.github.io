@@ -7,6 +7,7 @@ header_pages:
   - reptiles.md
   - publications.md
   - posts.md
+  - contact.md
   
 minima:
   skin: classic
