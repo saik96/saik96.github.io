@@ -1,0 +1,10 @@
+.btn--cv {
+  background-color: #4f6d7a;   /* muted blue-gray */
+  color: #ffffff !important;
+  border: none;
+}
+
+.btn--cv:hover {
+  background-color: #3f5a66;
+  color: #ffffff !important;
+}
