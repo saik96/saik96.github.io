@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : #"Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral researcher"
   employer: "DRF / IRAMIS / SPEC / SPHYNX<br>&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;Institut IRAMIS<br>CEA Paris-Saclay"
   location: "Gif-sur-Yvette, France"
   uri              : # URL
