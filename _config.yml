@@ -28,8 +28,8 @@ author:
   name             : #"Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "DRF/IRAMIS/SPEC/SPHYNX, Institut IRAMIS, Centre CEA Paris-Saclay 91190 Gif-sur-Yvette, FRANCE."
-  employer         : "Red Brick University"
+  employer: "Institut IRAMIS, CEA Paris-Saclay"
+  location: "Gif-sur-Yvette, France"
   uri              : # URL
   email            : "venkata-saiswetha.kolluru@cea.fr" 
 
