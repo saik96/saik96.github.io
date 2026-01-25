@@ -18,3 +18,7 @@ and magneto-hydrodynamical equations: using DNS and Log-Lattice models, in compl
 complex-time.
 - Thermalization and development of ‘tygers’ in Galerkin-truncated hydrodynamical PDEs.
 - Modification of spectral methods for problems with shocks and other forms of discontinuities.
+
+<a href="/files/CV.pdf" class="btn btn--primary" target="_blank">
+  Download CV
+</a>
