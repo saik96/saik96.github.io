@@ -28,7 +28,7 @@ author:
   name             : #"Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  employer: "DRF / IRAMIS / SPEC / SPHYNX<br>Institut IRAMIS<br>CEA Paris-Saclay"
+  employer: "DRF / IRAMIS / SPEC / SPHYNX<br>&nbsp;&nbsp&nbsp;&nbsp;Institut IRAMIS<br>CEA Paris-Saclay"
   location: "Gif-sur-Yvette, France"
   uri              : # URL
   email            : "venkata-saiswetha.kolluru@cea.fr" 
