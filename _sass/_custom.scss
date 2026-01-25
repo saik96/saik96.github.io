@@ -1,8 +1,17 @@
 .page-research {
   .page__content > h1 {
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .research-item {
+    margin-bottom: 0; // no top gap at all
+  }
+
+  .research-item + .research-item {
+    margin-top: 2.6rem; // spacing ONLY between cards
   }
 }
+
 
 .research-item {
   margin: 1.2rem 0 2.6rem; // reduced top margin
