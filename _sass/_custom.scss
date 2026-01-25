@@ -1,8 +1,14 @@
 .research-item {
   margin-bottom: 3rem;
-  padding: 1.6rem 1.8rem;
-  background: #f9fafb; // very light neutral gray
-  border-radius: 4px;
+  padding: 1.7rem 1.9rem;
+
+  // very light blue-gray, paper-like
+  background: #f6f9fc;
+
+  border-radius: 8px;
+
+  // subtle elevation (almost imperceptible)
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 
   .research-title {
     margin-bottom: 0.5rem;
@@ -15,17 +21,21 @@
     margin-bottom: 1.1rem;
   }
 
+  // abstract / description
   .research-summary {
-    font-size: 0.92rem;
-    line-height: 1.6;
+    font-size: 0.88rem;   // smaller, more abstract-like
+    line-height: 1.55;
     color: #444;
   }
 
   .research-publication {
-    margin-top: 1.3rem;
-    padding: 0.8rem 1rem;
+    margin-top: 1.4rem;
+    padding: 0.85rem 1.1rem;
+
     background: #ffffff;
     border-left: 3px solid #2E7D6F;
+    border-radius: 4px;
+
     font-size: 0.85rem;
   }
 }
