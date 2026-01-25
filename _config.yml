@@ -18,6 +18,7 @@ url                      : https://saik96.github.io # The base hostname & protoc
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 minimal_mistakes_skin: default
+enable_darkmode: false
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
