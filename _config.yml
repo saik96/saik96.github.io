@@ -131,6 +131,7 @@ atom_feed:
 
 footer:
   links: []
+last_modified_at: false
 
 # SEO Related
 google_site_verification :
