@@ -1,11 +1,10 @@
-/* Page-specific spacing control */
 .page-research {
   .page__content > h1 {
     margin-bottom: 0.5rem;
   }
 
   .research-item {
-    margin: 0; // NO top or bottom margin
+    margin-bottom: 0; // no top gap at all
   }
 
   .research-item + .research-item {
@@ -13,8 +12,9 @@
   }
 }
 
-/* Visual styling only — NO margins here */
+
 .research-item {
+  margin: 1.2rem 0 2.6rem; // reduced top margin
   padding: 1.8rem 2rem;
 
   background: #f6f9fc;
@@ -52,3 +52,4 @@
     font-size: 0.85rem;
   }
 }
+
