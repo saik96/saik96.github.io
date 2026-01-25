@@ -1,21 +1,9 @@
-.page-research {
-  .page__content > h1 {
-    margin-bottom: 0.5rem;
-  }
-
-  .research-item {
-    margin-bottom: 0; // no top gap at all
-  }
-
-  .research-item + .research-item {
-    margin-top: 2.6rem; // spacing ONLY between cards
-  }
-}
-
-
 .research-item {
-  margin: 1.2rem 0 2.6rem; // reduced top margin
-  padding: 1.8rem 2rem;
+  padding: 1.2rem 2rem 1.8rem; // smaller top padding
+
+  > :first-child {
+    margin-top: 0; // THIS removes the inner gap
+  }
 
   background: #f6f9fc;
   border-radius: 16px;
@@ -52,4 +40,3 @@
     font-size: 0.85rem;
   }
 }
-
