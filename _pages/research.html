@@ -31,3 +31,57 @@ permalink: /research/
 </section>
 
 
+<section class="research-item">
+
+  <h3 class="research-title">
+    Novel spectral methods for shock capturing and the removal of tygers in computational
+    fluid dynamics
+  </h3>
+
+  <p class="research-authors">
+    Published with Nicolas Besse and Rahul Pandit.
+  </p>
+
+  <p class="research-summary">
+    Spectral methods yield numerical solutions of the Galerkin-truncated versions of nonlinear partial dif-
+    ferential equations (PDEs) involved especially in fluid dynamics. In the presence of discontinuities, such
+    as shocks, spectral approximations develop Gibbs oscillations near the discontinuity. This causes the
+    numerical solution to deviate quickly from the true solution. For spectral approximations of the inviscid
+    Burgers equation in one-dimension (1D), nonlinear wave resonances lead to the formation of localised
+    oscillatory structures called tygers in well-resolved areas of the flow, far from the shock. Recently, the
+    author of Besse(2024, submitted) has proposed novel spectral relaxation (SR) and spectral purging
+    (SP) schemes for the removal of tygers and Gibbs oscillations in spectral approximations of nonlinear
+    conservation laws.
+  </p>
+
+  <p class="research-summary">
+    For the 1D inviscid Burgers equation, it is shown in Besse(2024, submitted) that
+    the novel SR and SP approximations of the solution converge strongly in L
+    2 norm to the entropic
+    weak solution, under an appropriate choice of kernels and related parameters. In this work, we carry
+    out a detailed numerical investigation of SR and SP schemes when applied to the 1D inviscid Burgers
+    equation and report the efficiency of shock capture and the removal of tygers. We then extend our
+    study to systems of nonlinear hyperbolic conservation laws — such as the 2x2 system of the shallow
+    water equations and the standard 3x3 system of 1D compressible Euler equations. For the latter, we
+    generalise the implementation of SR methods to non-periodic problems using Chebyshev polynomials.
+  </p>
+
+  <p class="research-summary">
+    We then turn to singular flow in the 1D wall approximation of the 3D-axisymmetric wall-bounded
+    incompressible Euler equation [G. Luo and T.Y. Hou, Proc. Natl. Acad. Sci. USA 111, 12968 (2014)].
+    Here, in order to determine the blowup time of the solution, we compare the decay of the width of the
+    analyticity strip, obtained from the pure pseudospectral method (PPS), with the improved estimate
+    obtained using the novel spectral relaxation scheme.
+  </p>
+
+  <div class="research-publication">
+    <strong>Publication:</strong><br>
+    Sai Swetha Kolluru Venkata, Nicolas Besse, and Rahul Pandit.
+    “Novel spectral methods for shock capturing and the removal of tygers in computational fluid dynamics ”,
+    Journal of Computational Physics 519 (2024): 113446.<br>
+    <a href="https://doi.org/10.1016/j.jcp.2024.113446">
+      https://doi.org/10.1016/j.jcp.2024.113446
+    </a>
+  </div>
+
+</section>
