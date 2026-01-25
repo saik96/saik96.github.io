@@ -2,7 +2,12 @@
   padding: 1.2rem 2rem 1.8rem; // smaller top padding
 
   > :first-child {
-    margin-top: 0; // THIS removes the inner gap
+    margin-top: 0; // removes inner gap
+  }
+
+  // spacing BETWEEN blue blocks
+  & + .research-item {
+    margin-top: 2.2rem;
   }
 
   background: #f6f9fc;
