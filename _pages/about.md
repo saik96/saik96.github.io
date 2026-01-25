@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher currently working on fluid dynamics and nonlinear systems.  
+I'm a **postdoctoral researcher** currently working on fluid dynamics and nonlinear systems.  
 This site is a collection of my work, talks, and notes.
 
 Current research interests
-======
+---
 
 - Numerical search for finite time singularities in hydrodynamical partial differential equations(PDEs)
 and magneto-hydrodynamical equations: using DNS and Log-Lattice models, in complex-space and
