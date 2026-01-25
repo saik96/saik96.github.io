@@ -21,6 +21,6 @@ complex-time.
 
 <a href="/files/CV.pdf"
    class="btn"
-   style="background-color:#3D4359; color:#ffffff; border:none;">
+   style="background-color:#24314D; color:#ffffff; border:none;">
   Download CV
 </a>
