@@ -1,10 +1,10 @@
 .btn--cv {
-  background-color: #4f6d7a;   /* muted blue-gray */
+  background-color: #b23a3a;   /* muted academic red */
   color: #ffffff !important;
   border: none;
 }
 
 .btn--cv:hover {
-  background-color: #3f5a66;
+  background-color: #8f2f2f;
   color: #ffffff !important;
 }
