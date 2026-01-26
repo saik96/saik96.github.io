@@ -103,7 +103,7 @@ permalink: /publications/
 <em>Authors: Sai Swetha Kolluru Venkata and Puneet Sharma (UG 2018, IISc Bengaluru). This code was developed from scratch.</em>
 <br>
 
-<ul class="project-bullets">
+<ul>
   <li>
     <u>Methods:</u>
     2/3 dealiased Fourier-Chebyshev pseudospectral methods in space, and adaptive
@@ -133,6 +133,131 @@ permalink: /publications/
     Highest resolution probed 512 × 8096 resolution over 3 weeks on 30+ cores.
   </li>
 </ul>
+
+
+
+
+
+
+<h2>3DAxIMHD</h2>
+<strong>Direct numerical simulation | 3D axisymmetric Ideal MHD equation</strong>
+<br>
+<em>Authors: S. S. Kolluru Venkata. Developed from scratch / branched from 3DAxEuler.</em>
+<br>
+
+<ul>
+  <li>
+    <u>Methods:</u>
+    2/3 dealiased Fourier–Chebyshev pseudospectral methods in space, adaptive
+    time-step 4th order Runge–Kutta scheme for time marching, and Tau solvers for
+    magnetic helicity computation, ω–ψ formulation, and pressure Poisson problems.
+  </li>
+
+  <li>
+    <u>Dependencies:</u>
+    Fortran, Python, MPICH, BLAS-LAPACK, FFTW-3.
+  </li>
+
+  <li>
+    <u>Parallelisation:</u>
+    Slab-decomposition with MPICH. Production runs with 30+ cores carried out on
+    CRAY-XC40 SahasraT machine at SERC, IISc Bengaluru.
+  </li>
+
+  <li>
+    <u>Capability:</u>
+    Highest resolution probed 256 × 512 on 16 cores.
+  </li>
+</ul>
+
+
+
+
+<h2>SRSP</h2>
+<strong>Spectral relaxation and spectral purging methods</strong>
+<br>
+<em>Authors: S. S. Kolluru Venkata and Nicolas Besse. Developed from scratch.</em>
+<br>
+
+<ul>
+  <li>
+    <u>Models:</u>
+    1D inviscid Burgers equation, 1D shallow water equations, 1D compressible Euler
+    equations, and 1D HL model.
+  </li>
+
+  <li>
+    <u>Methods:</u>
+    Fourier or Chebyshev pseudospectral methods in space with 4th order Runge–Kutta
+    time integration. Characteristic-based methods are employed to handle sensitive
+    boundary conditions for the compressible Euler equations.
+  </li>
+
+  <li>
+    <u>Modules:</u>
+    Spectral relaxation and spectral purging terms integrated directly into the solver.
+  </li>
+
+  <li>
+    <u>Dependencies:</u>
+    Fortran, Python, FFTW-3.
+  </li>
+</ul>
+
+
+
+
+
+<h2>CTSN-3DAE</h2>
+<strong>Numerical computation and asymptotic analysis of time series</strong>
+<br>
+<em>Authors: S. S. Kolluru Venkata. Developed from scratch.</em>
+<br>
+
+<ul>
+  <li>
+    <u>Models:</u>
+    3D axisymmetric Euler equation and 1D HL model.
+  </li>
+
+  <li>
+    <u>Methods:</u>
+    Fourier or Fourier–Chebyshev pseudospectral methods in space with
+    quadruple-precision arithmetic.
+  </li>
+
+  <li>
+    <u>Dependencies:</u>
+    Fortran, Python, BLAS-LAPACK, FFTW-3.
+  </li>
+</ul>
+
+
+
+
+
+<h2>CTSS-1DHL</h2>
+<strong>Symbolic computation and asymptotic analysis of time series</strong>
+<br>
+<em>Authors: S. S. Kolluru Venkata and Cornelius Rampf. Developed from scratch.</em>
+<br>
+
+<ul>
+  <li>
+    <u>Model:</u>
+    1D HL model.
+  </li>
+
+  <li>
+    <u>Dependencies:</u>
+    Mathematica 12.
+  </li>
+</ul>
+
+
+
+
+
 
 </div>
 
