@@ -59,7 +59,7 @@
 .publications-box {
   padding: 1.2rem 2rem 1.8rem;
   font-size: 0.9rem;
-  background: #f6f9fc;
+  background: #c3d8ed;
   border-radius: 16px;
 
   box-shadow:
@@ -86,7 +86,7 @@
 .thesis-box {
   padding: 1.2rem 2rem 1.8rem;
   font-size: 0.9rem;
-  background: #f4f9f4;
+  background: #cdf2cd;
   border-radius: 16px;
 
   box-shadow:
@@ -110,6 +110,33 @@
   margin-bottom: 5rem;
 }
 
+
+.talks-box {
+  padding: 1.2rem 2rem 1.8rem;
+  font-size: 0.9rem;
+  background: #e3dff6;
+  border-radius: 16px;
+
+  box-shadow:
+    0 6px 18px rgba(0, 0, 0, 0.08),
+    0 2px 6px rgba(0, 0, 0, 0.06);
+
+  > :first-child {
+    margin-top: 0; // remove inner top gap
+  }
+
+  // make numbered publication text smaller
+  ol {
+    font-size: 0.9rem;
+    padding-left: 1.2rem;
+    line-height: 1.45;
+  }
+
+  ol li {
+    margin-bottom: 1.2rem;
+  }
+  margin-bottom: 5rem;
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
