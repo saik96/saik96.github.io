@@ -107,7 +107,7 @@
   ol li {
     margin-bottom: 1.2rem;
   }
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 }
 
 .sde-box {
@@ -167,6 +167,43 @@
   }
   margin-bottom: 5rem;
 }
+
+
+
+
+
+.cv-btn {
+  display: inline-block;
+  padding: 0.9rem 2.2rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+
+  background: linear-gradient(135deg, #24314D, #3b4f7a);
+  color: #ffffff;
+  text-decoration: none;
+
+  border-radius: 999px;
+  box-shadow:
+    0 10px 25px rgba(36, 49, 77, 0.35),
+    0 3px 8px rgba(0, 0, 0, 0.15);
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cv-btn:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 14px 32px rgba(36, 49, 77, 0.45),
+    0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+.cv-btn:active {
+  transform: translateY(0);
+  box-shadow:
+    0 6px 16px rgba(36, 49, 77, 0.35);
+}
+
 
 @media (prefers-color-scheme: dark) {
   :root {
