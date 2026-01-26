@@ -95,6 +95,50 @@ permalink: /publications/
 
 
 <h1>Software Development</h1>
+<div class="sde-box">
+
+<h3>3DAxEuler</h3>
+
+<p>
+  <strong>Direct numerical simulation | 3D axisymmetric Euler equation</strong>
+</p>
+
+<p>
+  <u>Authors:</u> SSKV and Puneet Sharma (UG 2018, IISc Bengaluru).
+  This code was developed from scratch.
+</p>
+
+<p>
+  <u>Methods:</u>
+  2/3 dealiased Fourier-Chebyshev pseudospectral methods in space, and adaptive
+  time-step 4th order Runge–Kutta scheme for time marching.
+</p>
+
+<p>
+  <u>Modules:</u>
+  I have built, tested and deployed 2 Poisson solvers based on Shen-Galerkin
+  method and Tau method which invert the axisymmetric Poisson equation in Fourier-
+  Chebyshev spectral space and implement boundary conditions.
+</p>
+
+<p>
+  <u>Dependencies:</u>
+  Fortran, Python, MPICH, BLAS-LAPACK, FFTW-3.
+</p>
+
+<p>
+  <u>Parallelisation:</u>
+  Slab-decomposition with MPICH. Production runs with 30+ cores have
+  been carried out on CRAY-XC40 SahasraT machine at SERC, IISc Bengaluru.
+</p>
+
+<p>
+  <u>Capability:</u>
+  Highest resolution probed 512 × 8096 resolution over 3 weeks on 30+ cores.
+</p>
+
+
+</div>
 
 
 
