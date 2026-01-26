@@ -19,7 +19,7 @@ complex-time.
 - Thermalization and development of ‘tygers’ in Galerkin-truncated hydrodynamical PDEs.
 - Modification of spectral methods for problems with shocks and other forms of discontinuities.
 
-<div style="margin-top: 2.5rem; text-align:center;">
+<div style="margin-top: 2.5rem;">
   <a href="/files/CV.pdf"
      class="cv-btn">
     Download CV
