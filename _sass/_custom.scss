@@ -171,13 +171,12 @@
 
 
 
-
 .cv-btn {
   display: inline-block;
-  padding: 0.9rem 2.2rem;
-  font-size: 1.05rem;
+  padding: 0.55rem 1.6rem;   /* ↓ vertical + horizontal */
+  font-size: 0.85rem;        /* ↓ text */
   font-weight: 600;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.025em;
 
   background: linear-gradient(135deg, #24314D, #3b4f7a);
   color: #ffffff;
@@ -185,24 +184,26 @@
 
   border-radius: 999px;
   box-shadow:
-    0 10px 25px rgba(36, 49, 77, 0.35),
-    0 3px 8px rgba(0, 0, 0, 0.15);
+    0 6px 16px rgba(36, 49, 77, 0.3),
+    0 2px 5px rgba(0, 0, 0, 0.12);
 
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .cv-btn:hover {
-  transform: translateY(-2px);
+  transform: translateY(-1px);
   box-shadow:
-    0 14px 32px rgba(36, 49, 77, 0.45),
-    0 6px 14px rgba(0, 0, 0, 0.2);
+    0 9px 22px rgba(36, 49, 77, 0.4),
+    0 4px 10px rgba(0, 0, 0, 0.18);
 }
 
 .cv-btn:active {
   transform: translateY(0);
   box-shadow:
-    0 6px 16px rgba(36, 49, 77, 0.35);
+    0 5px 14px rgba(36, 49, 77, 0.3);
 }
+
+
 
 
 @media (prefers-color-scheme: dark) {
