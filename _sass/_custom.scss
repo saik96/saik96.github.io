@@ -59,12 +59,12 @@
 .publications-box {
   padding: 1.2rem 2rem 1.8rem;
   font-size: 0.9rem;
-  background: #e0effc;
+  background: #ffffff;
   border-radius: 16px;
 
   box-shadow:
-    0 6px 18px rgba(0, 0, 0, 0.08),
-    0 2px 6px rgba(0, 0, 0, 0.06);
+    0 6px 18px rgba(0, 0, 0, 0),
+    0 2px 6px rgba(0, 0, 0, 0);
 
   > :first-child {
     margin-top: 0; // remove inner top gap
